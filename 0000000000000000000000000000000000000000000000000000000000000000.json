@@ -1,7 +1,7 @@
 {
   "name": "Zero ID NFT",
   "description": "some description for id=0",
-  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/0.json",
+  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/0.png",
   "attributes": [
     {
       "trait_type": "attribute 1-100",
