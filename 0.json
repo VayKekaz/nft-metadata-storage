@@ -1,0 +1,11 @@
+{
+  "name": "Zero ID NFT",
+  "description": "some description for id=0",
+  "image": "http://localhost:8008/0.png",
+  "attributes": [
+    {
+      "trait_type": "attribute 1-100",
+      "value": 55
+    }
+  ]
+}
