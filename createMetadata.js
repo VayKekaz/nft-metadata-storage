@@ -6,7 +6,7 @@ function doNothing() {
 function createMetadata(imageFilenames) {
     console.log(imageFilenames);
     for (const [index, imgFilename] of imageFilenames.entries()) {
-        const metadataFilename = `${index}`.padEnd(64, "0") + ".json";
+        const metadataFilename = `${index}`.padStart(64, "0") + ".json";
         const metadataContent = {
             name: imgFilename,
             description: `Original artwork of Ketari with ${imgFilename} fictional character.`,
