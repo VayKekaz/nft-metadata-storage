@@ -1,1 +1,11 @@
-{"name":"ketari_unknown_0.png","description":"Original artwork of Ketari with ketari_unknown_0.png fictional character.","image":"https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/ketari_unknown_0.png","attributes":[{"trait_type":"character","value":"ketari_unknown_0.png"}]}
+{
+  "name": "Ketari original character holding sword",
+  "description": "Original artwork of Ketari with unnamed fictional character holding sword.",
+  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/ketari_unknown_0.png",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Unknown"
+    }
+  ]
+}

@@ -1,1 +1,11 @@
-{"name":"yae_miko_gi_0.png","description":"Original artwork of Ketari with yae_miko_gi_0.png fictional character.","image":"https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/yae_miko_gi_0.png","attributes":[{"trait_type":"character","value":"yae_miko_gi_0.png"}]}
+{
+  "name": "Yae Miko laughing",
+  "description": "Original artwork of Ketari with Yae Miko from \"Genshin Impact\" game.",
+  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/yae_miko_gi_0.png",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Yae Miko from Genshin Impact"
+    }
+  ]
+}

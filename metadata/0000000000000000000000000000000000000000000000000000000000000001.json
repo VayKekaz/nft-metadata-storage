@@ -1,1 +1,11 @@
-{"name":"alyssa_mouun_1.png","description":"Original artwork of Ketari with alyssa_mouun_1.png fictional character.","image":"https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/alyssa_mouun_1.png","attributes":[{"trait_type":"character","value":"alyssa_mouun_1.png"}]}
+{
+  "name": "Alyssa Mouun sitting in cat a pose",
+  "description": "Original artwork of Ketari with Alyssa Mouun fictional character sitting in a cat pose.",
+  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/alyssa_mouun_1.png",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Alyssa Mouun"
+    }
+  ]
+}

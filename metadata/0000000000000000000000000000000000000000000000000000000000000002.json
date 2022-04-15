@@ -1,1 +1,11 @@
-{"name":"emma_Yakusoku_no_Neverland_0.png","description":"Original artwork of Ketari with emma_Yakusoku_no_Neverland_0.png fictional character.","image":"https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/emma_Yakusoku_no_Neverland_0.png","attributes":[{"trait_type":"character","value":"emma_Yakusoku_no_Neverland_0.png"}]}
+{
+  "name": "Emma",
+  "description": "Original artwork of Ketari with Emma from \"Yakusoku no Neverland\" anime.",
+  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/emma_Yakusoku_no_Neverland_0.png",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Emma from \"Yakusoku no Neverland\""
+    }
+  ]
+}

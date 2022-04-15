@@ -1,1 +1,11 @@
-{"name":"ketari_trap_defence.png","description":"Original artwork of Ketari with ketari_trap_defence.png fictional character.","image":"https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/ketari_trap_defence.png","attributes":[{"trait_type":"character","value":"ketari_trap_defence.png"}]}
+{
+  "name": "Trap Defence album cover",
+  "description": "Original cover artwork of Ketari for unreleased \"Trap Defence\" album.",
+  "image": "https://raw.githubusercontent.com/VayKekaz/nft-metadata-storage/main/image/ketari_trap_defence.png",
+  "attributes": [
+    {
+      "trait_type": "character",
+      "value": "Trap Defence Eye"
+    }
+  ]
+}
